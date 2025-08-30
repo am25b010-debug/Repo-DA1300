@@ -22,7 +22,7 @@ tail -n10 app.log
 chmod 111 script.sh
 
 # 8. Use a command to search for the word "TODO" in every ".py" file in the current directory
-grep -ril todo *.py
+grep -n "TODO" *.py
 
 # 9. Show the last 20 commands entered in the terminal
 history -20
