@@ -3,7 +3,7 @@
 # 1. Sort the contents of "numbers.txt" in ascending order
 sort numbers.txt
 
-# 2. Print the IP address of the machine
+# 2. Print the IP address of the machine 
 ipconfig getifaddr en0
 
 # 3. Show the contents of a file named "readme.txt" in the current directory
