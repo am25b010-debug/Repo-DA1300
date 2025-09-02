@@ -4,7 +4,7 @@
 sort numbers.txt
 
 # 2. Print the IP address of the machine 
-ipconfig getifaddr en0
+ipconfig getifaddr en0  
 
 # 3. Show the contents of a file named "readme.txt" in the current directory
 cat readme.txt
